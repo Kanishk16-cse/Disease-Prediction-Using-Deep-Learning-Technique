@@ -1,13 +1,13 @@
-# Disease-Prediction-Using-Deep-Learning-Technique
+# Disease-Prediction-Using-Deep-Learning-Technique.
+
 
 First of all ,I would like to express my sincere gratitude to my project partner Kshitiz Bairathi for his invaluable collaboration and dedication throughout this project. Special thanks to our mentor Dr. Manoj Kumar for his expert guidance, continuous support, and insightful feedback that made this work possible.
 
 
-
-🧠 # Overview
+ # Overview
 This project implements automated dementia detection using Convolutional Neural Networks (CNNs) to analyze MRI brain scans. The system can classify images into four distinct stages of Alzheimer's disease progression, providing a valuable tool for early diagnosis and monitoring.
 
-📊 # Dataset
+ # Dataset
 
 Size: 44,000 MRI brain scan images
 Classes: 4 categories
@@ -21,7 +21,7 @@ Classes: 4 categories
 Format: JPEG, 180x180 pixels, RGB.
 Preprocessing: Skull-stripped, centered brain structure, clean black background.
 
-🚀 # Key Features
+ # Key Features
 
 1.Multiple Architecture Support: Custom CNNs and pre-trained models
 2.Transfer Learning: Fine-tuned pre-trained networks for medical imaging
@@ -29,7 +29,7 @@ Preprocessing: Skull-stripped, centered brain structure, clean black background.
 4.Scalable Design: Optimized for deployment in healthcare settings
 5.Cost-Performance Analysis: Models optimized for different resource constraints
 
-🏗️ # Model Architectures
+ # Model Architectures
 
 # Custom CNN Models (Built from Scratch)
 
@@ -45,7 +45,7 @@ Preprocessing: Skull-stripped, centered brain structure, clean black background.
 3.MobileNetV2: 96.34% accuracy
 4.DenseNet-121: 98.01% accuracy (Best Performance)
 
-🛠️ # Technologies Used
+ # Technologies Used
 
 1.Deep Learning Framework: PyTorch
 2.Programming Language: Python
